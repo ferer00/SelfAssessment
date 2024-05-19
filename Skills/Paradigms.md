@@ -1,13 +1,13 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
+  - Procedural programming 🎓 known
+  - Imperative programming🎓 known
+  - Structured programming🎓 known
+  - Non-structured programming👂 heard
+  - Functional programming👂 heard
+  - Prototype-based programming👂 heard
+  - Object-oriented programming👂 heard
   - Object-based programming
   - Generic programming
   - Concurrent computing
@@ -17,26 +17,26 @@
   - FRP (Functional-reactive)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming
+  - Multi-paradigm programming👂 heard
   - Metaprogramming
   - Actor model
 - OOP basics
   - constructor
-  - new
-  - Static method
-  - Method
-  - Async method
+  - new🎓 known
+  - Static method🎓 known
+  - Method🎓 known
+  - Async method👂 heard
   - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
+  - Public fields🎓 known
+  - Private fields🎓 known
+  - Field declarations🎓 known
+  - Inheritance🖐️ used
+  - Parent class🖐️ used
   - Polymorphism
   - Abstract class
-  - Interface
+  - Interface🎓 known
   - Encapsulation
-  - Hidden class
+  - Hidden class👂 heard
   - Object form
   - instance
   - Introspection
@@ -45,22 +45,22 @@
   - Singleton
   - Factory Method
   - Abstract Factory
-  - Adapter
+  - Adapter🎓 known
   - Observer
-  - Strategy
+  - Strategy🎓 known
   - Facade
-  - Proxy
+  - Proxy🎓 known
   - Chain of Responsibility
-  - Command
-  - Iterator
-  - State
+  - Command🖐️ used
+  - Iterator🖐️ used
+  - State🖐️ used
   - Bridge
-  - Builder
+  - Builder👂 heard
   - Prototype
   - Composite
-  - Decorator
-  - Flyweight
-  - Mediator
-  - Memento
-  - Template Method
-  - Visitor
+  - Decorator👂 heard
+  - Flyweight👂 heard
+  - Mediator👂 heard
+  - Memento👂 heard
+  - Template Method👂 heard
+  - Visitor👂 heard
