@@ -25,7 +25,7 @@
   - loops🖐️used
   - assignment🖐️ used
   - regular expression🖐️ used
-  - interface👂 heard
+  - interface🎓known
   - contract👂 heard
   - module🖐️used
   - call stack🖐️used
@@ -61,7 +61,7 @@
   - object🖐️ used
   - class🖐️ used
   - collection🎓 known
-  - set👂 heard
+  - set🎓 known
   - hash table👂 heard
   - linked list👂 heard
   - doubly list🎓 known
@@ -78,11 +78,11 @@
   - serialization👂 heard
   - string parsing👂 heard
 - Process & style
-  - compiler👂 heard
+  - compiler🖐️ used
   - transpiler👂 heard
   - linter👂 heard
   - polyfill🖐️ used
-  - debugger🖐️ used
+  - debugger🎓 known
   - garbage collection🖐️ used
   - refactoring🖐️ used
   - code review🖐️ used
