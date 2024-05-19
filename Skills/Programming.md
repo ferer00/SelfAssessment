@@ -4,103 +4,103 @@
   - value🖐️used
   - identifier🖐️used
   - variable🖐️used
-  - constant👂heard
-  - scalar👂heard
-  - literal👂heard
+  - constant🖐️ used
+  - scalar🖐️ used
+  - literal🖐️ used
   - expression🙋explained
-  - heap👂heard
-  - function👂heard
-  - procedure👂heard
-  - method👂heard
+  - heap🖐️ used
+  - function🖐️ used
+  - procedure🖐️ used
+  - method🖐️ used
   - class🖐️used
-  - prototype
+  - prototype🙋 explained
   - event🖐️used
   - type🖐️used
   - primitive types🎓known
   - reference types🎓known
-  - flag👂heard
+  - flag🎓known
   - lexical scope🙋explained
   - code block🎓known
   - conditions🖐️used
   - loops🖐️used
   - assignment🖐️ used
   - regular expression🖐️ used
-  - interface
-  - contract
-  - module👂 heard
-  - call stack👂 heard
+  - interface👂 heard
+  - contract👂 heard
+  - module🖐️used
+  - call stack🖐️used
 - Functions
   - signature🖐️used
   - argument🖐️used
-  - parameter👂 heard
-  - pure function👂 heard
+  - parameter🖐️used
+  - pure function🖐️used
   - lambda expression🖐️used
-  - side effects👂 heard
-  - closure👂 heard
+  - side effects🖐️used
+  - closure🖐️used
   - partial application🖐️ used
-  - curry👂 heard
+  - curry🎓 known
   - higher order🖐️ used
   - recursion🖐️ used
-  - callback👂 heard
-  - listener👂 heard
-  - compose
-  - pipe
+  - callback🖐️ used
+  - listener🖐️ used
+  - compose🖐️ used
+  - pipe🖐️ used
   - memoize👂 heard
   - wrapper🎓 known
   - functor🎓 known
-  - monad👂 heard
-  - monoid👂 heard
-  - generator
-  - coroutine
+  - monad🖐️ used
+  - monoid🖐️ used
+  - generator👂 heard
+  - coroutine👂 heard
 - Data structures
   - array🖐️ used
   - structure🖐️ used
-  - record
-  - enum
-  - instance
+  - record🖐️ used
+  - enum🖐️ used
+  - instance🖐️ used
   - object🖐️ used
   - class🖐️ used
-  - collection
+  - collection🎓 known
   - set👂 heard
-  - hash table
-  - linked list
-  - doubly list
-  - unrolled list
-  - circular list👂 heard
-  - queue👂 heard
-  - stack👂 heard
-  - deque👂 heard
-  - tree
-  - graph👂 heard
-  - iterator👂 heard
+  - hash table👂 heard
+  - linked list👂 heard
+  - doubly list🎓 known
+  - unrolled list🖐️ used
+  - circular list🖐️ used
+  - queue🖐️ used
+  - stack🖐️ used
+  - deque🖐️ used
+  - tree👂 heard
+  - graph🖐️ used
+  - iterator🖐️ used
   - mutable state🎓 known
   - immutable state🎓 known
-  - serialization
+  - serialization👂 heard
   - string parsing👂 heard
 - Process & style
-  - compiler
-  - transpiler
-  - linter
+  - compiler👂 heard
+  - transpiler👂 heard
+  - linter👂 heard
   - polyfill🖐️ used
   - debugger🖐️ used
-  - garbage collection
-  - refactoring👂 heard
-  - code review👂 heard
-  - antipatterns👂 heard
+  - garbage collection🖐️ used
+  - refactoring🖐️ used
+  - code review🖐️ used
+  - antipatterns🖐️ used
   - paradigm🎓 known
   - algorithm🖐️ used
   - magic numbers🖐️ used
   - hardcode🖐️ used
-  - complexitycomplexity
-  - decomposition👂 heard
+  - complexityc🎓 known
+  - decomposition🎓 known
   - spaghetti🖐️ used
-  - silver bullet
+  - silver bullet👂 heard
   - not invented here 🎓 known
   - dead code🎓 known
-  - unreachable code👂 heard
-  - duplicate code👂 heard
+  - unreachable code🖐️ used
+  - duplicate code🖐️ used
   - exception🎓 known
   - return early🎓 known
   - unittest🖐️ used
-  - git
-  - github
+  - git🎓 known
+  - github🎓 known
